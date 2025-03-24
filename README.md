@@ -1,11 +1,11 @@
-# Header-Gathsession
-Second CSS Task - Conquerblocks Academy
-
 # GathSession - Event Platform
 
 A modern, responsive webpage for a fictional events and networking platform. This project showcases a clean and dynamic design with emphasis on user experience and modern web design principles.
 
-https://github.com/PoliXDev/Header-Gathsession/blob/main/Logo-GathSession-D5kMGRtY.svg
+![GathSession Logo](Logo-GathSession-D5kMGRtY.svg)
+
+https://polixdev.github.io/Header-Gathsession/
+
 
 ## Description
 
