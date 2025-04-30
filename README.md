@@ -1,4 +1,4 @@
-# GathSession - Event Platform
+![capture](./gathsession.png)
 
 A modern, responsive webpage for a fictional events and networking platform. This project showcases a clean and dynamic design with emphasis on user experience and modern web design principles.
 
